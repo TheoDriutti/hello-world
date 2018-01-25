@@ -1,2 +1,6 @@
 # hello-world
-OK this one is the readme-edits branch right ???
+
+Just another repository
+
+Hello world !! This is the beginning of my GitHub experience.
+(pull request version)
